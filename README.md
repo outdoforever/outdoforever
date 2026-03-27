@@ -71,7 +71,6 @@
 
 <!-- Most used languages bar -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=outdoforever&layout=compact&theme=github_dark&hide_border=true)
-
 </div>
 
 

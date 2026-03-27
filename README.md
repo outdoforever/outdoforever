@@ -63,14 +63,15 @@
 
 <div align="">
   
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 # Activity & Language Stats
 
 <!-- Contributions/streak style card -->
-![GitHub Streak](https://streak-stats.demolab.com?user=outdoforever&theme=dark&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=outdoforever&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 <!-- Most used languages bar -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=outdoforever&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outdoforever&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
 </div>
 
 

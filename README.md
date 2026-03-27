@@ -1,16 +1,12 @@
 # Aayush Chapagain
 
-<h1 style="margin: 0; padding: 0; font-size: 42px; font-weight: 700; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-  Your Name
-</h1>
-
 <hr style="border: 0; border-top: 1px solid #30363d; margin: 8px 0 40px 0;" />
 
 <div style="text-align: center; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
 
   <!-- IMAGE -->
   <img
-    src="your-image.jpg"
+    src="[your-image.jpg](https://github.com/outdoforever/outdoforever/blob/799734ac4cb4604e5dddb1d16219da3306cb01f8/profile.jpeg)"
     alt="intro photo"
     style="
       display: block;

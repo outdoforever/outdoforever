@@ -2,33 +2,33 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/outdoforever/outdoforever/799734ac4cb4604e5dddb1d16219da3306cb01f8/profile.jpeg" width="360" />
+  <img src="https://raw.githubusercontent.com/outdoforever/outdoforever/799734ac4cb4604e5dddb1d16219da3306cb01f8/profile.jpeg" width="340" />
 
-  <br><br>
+  <br>
 
   <sub><i>I turned side questing into a modern prestige profession.</i></sub>
 
-  <br><br><br>
-
-  <p align="center" width="600">
-    All it took was being cynical about everything except myself, then post-training my own policy to maximize expected return (serendipitous events (luck surface area)) by improving it until probability mass collapsed onto high-value action sequences, with mixed rollouts reserved for exploration.
-  </p>
-
-  <br>
-
-  <p align="center" width="600">
-    That led me to attempt zero-employee companies as a way to build my way out of the permanent underclass, one day at a time.
-  </p>
-
-  <br>
-
-  <p align="center" width="600">
-    If I had to give one piece of advice on carving your own path, and I mean truly your own, it’s this: protect your cogsec. The pendulum swings. The mind decays. They will tug at it, prompt-inject the latest psyop, and try to steer your internal model for you. Don’t let them.
-  </p>
-
   <br><br>
 
-  <b>Hold the line long enough and you win.</b>
+  <sub>
+  All it took was being cynical about everything except myself, then post-training my own policy to maximize expected return (serendipitous events (luck surface area)) by improving it until probability mass collapsed onto high-value action sequences, with mixed rollouts reserved for exploration.
+  </sub>
+
+  <br>
+
+  <sub>
+  That led me to attempt zero-employee companies as a way to build my way out of the permanent underclass, one day at a time.
+  </sub>
+
+  <br>
+
+  <sub>
+  If I had to give one piece of advice on carving your own path, and I mean truly your own, it’s this: protect your cogsec. The pendulum swings. The mind decays. They will tug at it, prompt-inject the latest psyop, and try to steer your internal model for you. Don’t let them.
+  </sub>
+
+  <br>
+
+  <sub><b>Hold the line long enough and you win.</b></sub>
 
 </div>
 

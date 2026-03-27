@@ -7,13 +7,8 @@
   <br>
 
   <sub><i>I turned side questing into a modern prestige profession.</i></sub> <br>
-  <sub>
-  All it took was being cynical about everything except myself, then post-training my own policy to maximize expected return (serendipitous events (luck surface area)) by improving it until probability mass collapsed onto high-value action sequences, with mixed rollouts reserved for exploration.
-  </sub> 
-
-  <sub>
-  That led me to attempt zero-employee companies as a way to build my way out of the permanent underclass, one day at a time.
-  </sub>
+<sub>All it took was being cynical about everything except myself, then post-training my own policy to maximize expected return (serendipitous events (luck surface area)) by improving it until probability mass collapsed onto high-value action sequences, with mixed rollouts reserved for exploration.</sub>
+<sub>That led me to attempt zero-employee companies as a way to build my way out of the permanent underclass, one day at a time.</sub>
 
   
 

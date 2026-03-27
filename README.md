@@ -16,7 +16,7 @@
   </sub>
 
   
-
+ <br>
   <sub>
   If I had to give one piece of advice on carving your own path, and I mean truly your own, it’s this: protect your cogsec. The pendulum swings. The mind decays. They will tug at it, prompt-inject the latest psyop, and try to steer your internal model for you. Don’t let them.
   </sub>

@@ -61,7 +61,7 @@
 </div>
 
 
-<div align="center">
+<div align="">
 # 📊 GitHub Stats:
 ## Activity & Language Stats
 

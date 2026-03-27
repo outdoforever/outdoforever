@@ -61,11 +61,10 @@
 </div>
 
 
-
+<div align="center">
 # 📊 GitHub Stats:
 ## Activity & Language Stats
 
-<div align="center">
 <!-- Contributions/streak style card -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=outdoforever&theme=dark&hide_border=true)
 

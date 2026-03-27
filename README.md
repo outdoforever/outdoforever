@@ -61,16 +61,13 @@
 </div>
 
 
-<div align="">
-  
-# 📊 GitHub Stats
-# Activity & Language Stats
+## My GitHub Activity
 
-<img src="https://streak-stats.demolab.com?user=outdoforever&theme=dark&hide_border=true" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=outdoforever&theme=dark&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outdoforever&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+## Languages by Repositories
 
-</div>
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=outdoforever&theme=github_dark)
 
 
 <!-- 2. Contribution Graph -->

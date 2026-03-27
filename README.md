@@ -6,7 +6,7 @@
 
   <!-- IMAGE -->
   <img
-    src="[your-image.jpg](https://github.com/outdoforever/outdoforever/blob/799734ac4cb4604e5dddb1d16219da3306cb01f8/profile.jpeg)"
+    ![image alt](https://github.com/outdoforever/outdoforever/blob/799734ac4cb4604e5dddb1d16219da3306cb01f8/profile.jpeg)
     alt="intro photo"
     style="
       display: block;

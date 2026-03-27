@@ -79,3 +79,24 @@
 
 </div>
 
+
+<!-- 2. Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=outdoforever&theme=github-compact" />
+</div>
+
+<br><br>
+
+<!-- 3. Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=outdoforever&show_icons=true&theme=github_dark" />
+</div>
+
+<br><br>
+
+<!-- 4. Activity Overview -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=outdoforever&theme=github_dark" />
+</div>
+
+

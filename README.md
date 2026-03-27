@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/outdoforever/outdoforever/799734ac4cb4604e5dddb1d16219da3306cb01f8/profile.jpeg" width="300" />
+  <img src="https://raw.githubusercontent.com/outdoforever/outdoforever/799734ac4cb4604e5dddb1d16219da3306cb01f8/profile.jpeg" width="250" />
 
   <br>
 

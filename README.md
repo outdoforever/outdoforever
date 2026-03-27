@@ -65,10 +65,10 @@
 # 📊 GitHub Stats:
 ## GitHub Stats
 
-<!-- Main stats card -->
+## GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=outdoforever&show_icons=true&theme=github_dark&hide_border=true)
 
-<!-- Top languages card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=outdoforever&layout=compact&theme=github_dark&hide_border=true)
 
 </div>

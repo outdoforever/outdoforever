@@ -1,3 +1,11 @@
+# Aayush Chapagain
+
+<div align="center">
+
+![Aayush Chapagain](https://via.placeholder.com/400x300?text=Profile+Picture)
+
+</div>
+
 <p align="center"><em>
 I turned side questing into a modern prestige profession.<br><br>
 
@@ -5,7 +13,7 @@ All it took was being cynical about everything except myself, then post-training
 
 That led me to attempt zero-employee companies as a way to build my way out of the permanent underclass, one day at a time.<br><br>
 
-If I had to give one piece of advice on carving your own path, and I mean truly your own, it’s this: protect your cogsec. The pendulum swings. The mind decays. They will tug at it, prompt-inject the latest psyop, and try to steer your internal model for you. Don’t let them.<br><br>
+If I had to give one piece of advice on carving your own path, and I mean truly your own, it's this: protect your cogsec. The pendulum swings. The mind decays. They will tug at it, prompt-inject the latest psyop, and try to steer your internal model for you. Don't let them.<br><br>
 
 Hold the line long enough and you win.
 </em></p>

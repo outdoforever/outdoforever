@@ -94,9 +94,6 @@
 
 <br><br>
 
-<!-- 4. Activity Overview -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=outdoforever&theme=github_dark" />
-</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

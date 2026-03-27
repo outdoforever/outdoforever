@@ -1,34 +1,29 @@
 # Aayush Chapagain
 
-<hr style="border: 0; border-top: 1px solid #30363d; margin: 8px 0 40px 0;" />
+<div align="center">
 
-<div style="text-align: center; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+  <img src="[https://raw.githubusercontent.com/yourusername/repo/main/image.jpg](https://github.com/outdoforever/outdoforever/blob/799734ac4cb4604e5dddb1d16219da3306cb01f8/profile.jpeg)" width="350" style="border-radius: 10px;" />
 
-  <!-- IMAGE -->
-  <img
-    ![image alt](https://github.com/outdoforever/outdoforever/blob/799734ac4cb4604e5dddb1d16219da3306cb01f8/profile.jpeg)
-    alt="intro photo"
-    style="
-      display: block;
-      margin: 0 auto 40px auto;
-      width: 640px;
-      height: 330px;
-      object-fit: cover;
-    "
-  />
+  <br><br>
 
-  <!-- INTRO TEXT -->
-  <p style="font-style: italic; font-size: 14px; line-height: 1.7; max-width: 900px; margin: 0 auto;">
-    I turned side questing into a modern prestige profession.
-    <br /><br />
-    All it took was being cynical about everything except myself, then post‑training my own policy to maximize expected return (serendipitous events (luck surface area)) by improving it until probability mass collapsed onto high‑value action sequences, with mixed rollouts reserved for exploration.
-    <br /><br />
-    That led me to attempt zero‑employee companies as a way to build my way out of the permanent underclass, one day at a time.
-    <br /><br />
-    If I had to give one piece of advice on carving your own path, and I mean truly your own, it's this: protect your cogsci. The pendulum swings. The mind decays. They will tug at it, prompt‑inject the latest psyop, and try to steer your internal model for you. Don't let them.
-    <br /><br />
-    Hold the line long enough and you win.
+  <i>I turned side questing into a modern prestige profession.</i>
+
+  <br><br>
+
+  <p style="max-width: 700px; text-align: center; line-height: 1.6;">
+    All it took was being cynical about everything except myself, then post-training my own policy to maximize expected return (serendipitous events (luck surface area)) by improving it until probability mass collapsed onto high-value action sequences, with mixed rollouts reserved for exploration.
   </p>
+
+  <p style="max-width: 700px; text-align: center; line-height: 1.6;">
+    That led me to attempt zero-employee companies as a way to build my way out of the permanent underclass, one day at a time.
+  </p>
+
+  <p style="max-width: 700px; text-align: center; line-height: 1.6;">
+    If I had to give one piece of advice on carving your own path, and I mean truly your own, it’s this: protect your cogsec. The pendulum swings. The mind decays. They will tug at it, prompt-inject the latest psyop, and try to steer your internal model for you. Don’t let them.
+  </p>
+
+  <b>Hold the line long enough and you win.</b>
+
 </div>
 
 <div align="center">

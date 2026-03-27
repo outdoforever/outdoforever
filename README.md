@@ -60,7 +60,7 @@
 
 </div>
 
-
+# 📊 GitHub Stats
 ## My GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=outdoforever&theme=dark&hide_border=true)

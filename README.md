@@ -62,8 +62,9 @@
 
 
 <div align="">
+  
 # 📊 GitHub Stats:
-## Activity & Language Stats
+##Activity & Language Stats
 
 <!-- Contributions/streak style card -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=outdoforever&theme=dark&hide_border=true)

@@ -91,9 +91,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=outdoforever&show_icons=true&theme=github_dark" />
 </div>
-
-<br><br>
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

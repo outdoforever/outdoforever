@@ -1,5 +1,14 @@
-# 💫 About Me:
-# 👋 Hi, I'm Ayush<br><br>💻 Software Developer | AI Enthusiast | Problem Solver<br><br>🚀 Passionate about building real-world projects using Python & AI<br>🎯 Currently working on: AI Car & Pedestrian Tracking System<br>📚 Learning: Data Structures, System Design<br><br>---<br><br>## 🔧 Tech Stack<br><br>* 💻 Languages: Python, Java, C<br>* 🌐 Web: HTML, CSS, JavaScript<br>* 🛠 Tools: Git, VS Code, MongoDB<br><br>---<br><br>## 📌 Featured Projects<br><br>### 🚗 AI Car & Pedestrian Tracking<br><br>* Real-time detection using OpenCV<br>* Accident prediction system<br>* Alerts when object is too close<br><br>### 🤖 AI Interview Analyzer<br><br>* Analyzes answers using NLP<br>* Gives feedback & improvement tips<br><br>---<br><br>## 📊 GitHub Stats<br><br>(You will add dynamic stats here using GitHub readme stats)<br><br>---<br><br>## 📫 Connect with Me<br><br>* LinkedIn: (your link)<br>* Email: (your email)<br>
+<p align="center"><em>
+I turned side questing into a modern prestige profession.<br><br>
+
+All it took was being cynical about everything except myself, then post-training my own policy to maximize expected return (serendipitous events (luck surface area)) by improving it until probability mass collapsed onto high-value action sequences, with mixed rollouts reserved for exploration.<br><br>
+
+That led me to attempt zero-employee companies as a way to build my way out of the permanent underclass, one day at a time.<br><br>
+
+If I had to give one piece of advice on carving your own path, and I mean truly your own, it’s this: protect your cogsec. The pendulum swings. The mind decays. They will tug at it, prompt-inject the latest psyop, and try to steer your internal model for you. Don’t let them.<br><br>
+
+Hold the line long enough and you win.
+</em></p>
 
 
 ## 🌐 Socials:
@@ -14,12 +23,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=outdoforever&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=outdoforever&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=outdoforever&icon=0&color=0)](https://visitcount.itsvg.in)

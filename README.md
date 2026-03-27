@@ -71,7 +71,7 @@
 
 
 <!-- 2. Contribution Graph -->
-#📈 Contribution Graph
+# 📈 Contribution Graph:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=outdoforever&theme=github-compact" />
 </div>

@@ -15,7 +15,7 @@
 <sub><b>Hold the line long enough and you win.</b></sub>
 </div>
 
-<div align="center">
+<div align="">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aayush.c)

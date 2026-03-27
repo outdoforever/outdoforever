@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Replace this path with the real image path after upload -->
-<img src="[assets/profile.jpg](https://github.com/outdoforever/outdoforever/blob/799734ac4cb4604e5dddb1d16219da3306cb01f8/profile.jpeg)" alt="Aayush Chapagain" width="400" />
+![image alt](https://github.com/outdoforever/outdoforever/blob/920a7a294a6dd3ec0aa50c89b87fe4be0513e75e/profile.jpeg)
 
 </div>
 
